@@ -3,7 +3,7 @@
 ## install
 
 ```
-yarn add @shangwenwangx/prettier-config
+yarn add @shangwenwang/prettier-config
 ```
 
 ## Edit
@@ -13,6 +13,6 @@ Edit `package.json`
 ```
 {
     // ...
-    "prettier": "@shangwenwangx/prettier-config"
+    "prettier": "@shangwenwang/prettier-config"
 }
 ```
