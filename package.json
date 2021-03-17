@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/189/prettier-config.git"
   },
-  "keywords": [],
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
